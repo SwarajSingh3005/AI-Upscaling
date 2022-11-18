@@ -53,8 +53,8 @@ Reference
 
 Jonathan Ho,(2021). High-Fidelity Image Generation Using Diffusion Models https://ai.googleblog.com/2021/07/high-fidelity-image-generation-using.html?m=1
 
-MICHAEL ZHANG, 2021, Google’s New AI Photo Upscaling Tech is Jaw-Dropping, < https://petapixel.com/assets/uploads/2021/08/cascadibng-800x375.jpg>.
+MICHAEL ZHANG, 2021, Google’s New AI Photo Upscaling Tech is Jaw-Dropping, < https://petapixel.com/assets/uploads/2021/08/cascadibng-800x375.jpg >.
 
-MICHAEL ZHANG, 2021, Google’s New AI Photo Upscaling Tech is Jaw-Dropping, < https://petapixel.com/assets/uploads/2021/08/Screenshot-1056-800x310.jpg>.
+MICHAEL ZHANG, 2021, Google’s New AI Photo Upscaling Tech is Jaw-Dropping, < https://petapixel.com/assets/uploads/2021/08/Screenshot-1056-800x310.jpg >.
 
 
