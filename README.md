@@ -24,6 +24,7 @@ https://data.vision.ee.ethz.ch/cvl/DIV2K/
 
 
 
+
 Architecture Proposal
 
 ![Screenshot-1056-800x310](https://user-images.githubusercontent.com/114939556/202602258-c25f8eca-1210-4272-ad81-ceb959c0365b.jpg)
