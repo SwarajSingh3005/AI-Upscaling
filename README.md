@@ -18,9 +18,10 @@ There are many real-world problems, like restoring vintage old low-resolution ph
 
 Data set
 
+The dataset is commonly used for training and evaluation of the image-super-resolution task. DIV2K dataset has 1000 2K resolution images divided into: 800 images for training, 100 images for validation, 100 images for testing, which is a large diversity of contents.
+
 https://data.vision.ee.ethz.ch/cvl/DIV2K/
 
-https://deepai.org/dataset/urban100-4x-upscaling
 
 
 Architecture Proposal
