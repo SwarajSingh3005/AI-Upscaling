@@ -25,6 +25,11 @@ https://deepai.org/dataset/urban100-4x-upscaling
 
 Architecture Proposal
 
+![Screenshot-1056-800x310](https://user-images.githubusercontent.com/114939556/202602258-c25f8eca-1210-4272-ad81-ceb959c0365b.jpg)
+
+
+
+
 Wang, Zhihao, et al. Deep Learning for Image Super-Resolution: A Survey. arXiv, 7 Feb. 2020. arXiv.org, https://doi.org/10.48550/arXiv.1902.06068.
 
 
