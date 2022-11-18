@@ -2,8 +2,7 @@ Abstract
 
 AI image upscaling uses artificial intelligence algorithms to improve the resolution of an image. 
 
-Nowadays, most people own a 4k TV in their home that can display ultra-HD content and get the most out of their screens when watching 4K-mastered content. However, when watching lower-resolution content, the video must be upscaled to fill out the entire display. 1080p images, known as full HD, have just a quarter of the pixels in 4K images. The picture has to be stretched to match the TV's pixels to display a 1080p shot from edge to edge on a 4K screen. In this situation, we use AI upscaling to improve the image quality of low image/video content.
-
+Nowadays, most people own a 4k TV in their home that can display ultra-HD content. However, when watching lower-resolution content, the video must be upscaled to fill out the entire display. 1080p images, known as full HD, have just a quarter of the pixels in 4K images. The picture has to be stretched to match the TV's pixels to display a 1080p shot from edge to edge on a 4K screen. In this situation, we use AI upscaling to improve the image quality of low image/video content.
 
 Detailed Description
 
@@ -18,14 +17,14 @@ There are many real-world problems, like restoring vintage old low-resolution ph
 
 Data set
 
-The dataset is commonly used for training and evaluation of the image-super-resolution task. DIV2K dataset has 1000 2K resolution images divided into: 800 images for training, 100 images for validation, 100 images for testing, which is a large diversity of contents.
+The dataset is commonly used for training and evaluation of the image-super-resolution task. DIV2K dataset has 1000 2K resolution images divided into 800 images for training, 100 images for validation, 100 images for testing, which is a large diversity of contents.
 
 https://data.vision.ee.ethz.ch/cvl/DIV2K/
 
 
 Architecture Proposal
 
-This paper talks about how we can restore old photos using DIV2K dataset. It is designed to repair defects, such as scratches and dust spots, and a local department targeting unstructured defects, such as noises and blurriness.
+This paper discusses how we can restore old photos using the DIV2K dataset. It is designed to repair defects, such as scratches and dust spots, and a local department targeting unstructured defects, such as noises and blurriness.
 
 Zi-Yu Wan, Bo Zhang, Dong-Dong Chen, Pan Zhang, Dong Chen, Jing Liao, Fang Wen.Bringing Old Photos Back to Life, https://paperswithcode.com/paper/bringing-old-photos-back-to-life
 
