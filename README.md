@@ -31,4 +31,4 @@ Wang, Zhihao, et al. Deep Learning for Image Super-Resolution: A Survey. arXiv, 
 
 Reference 
 
-Jonathan Ho,(2021). High-Fidelity Image Generation Using Diffusion Models https://ai.googleblog.com/2021/07/high-fidelity- 
+Jonathan Ho,(2021). High-Fidelity Image Generation Using Diffusion Models https://ai.googleblog.com/2021/07/high-fidelity-image-generation-using.html?m=1
